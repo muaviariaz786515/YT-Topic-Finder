@@ -163,7 +163,7 @@ with st.sidebar:
     st.markdown("## 🎯 Advanced Search Filters")
     
     # API Key Input
-    api_key = st.text_input("YouTube API Key", type="password", 
+    api_key = st.text_input("AIzaSyCtyKqmFdYnUDzsgrjPND-EiU3J_KEyPK8", type="password", 
                            help="Enter your YouTube Data API v3 key")
     
     if not api_key:
